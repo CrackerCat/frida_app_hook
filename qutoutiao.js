@@ -1,3 +1,4 @@
+// 趣头条 5.4.1版本 破解so加密，动态调试chrome
 Java.perform(function () {
 
     var ContentWebView=Java.use("com.jifen.qukan.content.web.view.ContentWebView");
